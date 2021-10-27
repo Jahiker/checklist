@@ -1,0 +1,11 @@
+{
+  "name": "checklist",
+  "version": "1.0.0",
+  "description": "checklist de metas curson tin castro",
+  "main": "js/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jahiker Rojas",
+  "license": "MIT"
+}
